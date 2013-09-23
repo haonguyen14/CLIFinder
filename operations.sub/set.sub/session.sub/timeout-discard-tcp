@@ -1,0 +1,1 @@
+set timeout of tcp session in discard state

@@ -1,0 +1,1 @@
+Snarf snaplen bytes of data from each packet. (0 means use the required length to catch whole packets)

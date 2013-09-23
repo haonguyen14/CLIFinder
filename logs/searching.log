@@ -1,0 +1,348 @@
+2013-09-03 16:19:44.532776 - create interface
+   Parsed Query: <content:creat content:interfac>
+   Hits: 205
+   MaxScore: 0.260225951672
+   Scorer: <CommandScoreQuery: custom(content:creat content:interfac)>
+
+2013-09-03 16:36:03.580129 - show configuration
+   Parsed Query: <content:show content:configur>
+   Hits: 447
+   MaxScore: 0.329645991325
+   Scorer: <CommandScoreQuery: custom(content:show content:configur)>
+
+2013-09-03 16:36:10.051831 - show configuration
+   Parsed Query: <content:show content:configur>
+   Hits: 447
+   MaxScore: 0.329645991325
+   Scorer: <CommandScoreQuery: custom(content:show content:configur)>
+
+2013-09-03 16:50:12.646992 - show configuration
+   Parsed Query: <content:show content:configur>
+   Hits: 447
+   MaxScore: 0.329645991325
+   Scorer: <CommandScoreQuery: custom(content:show content:configur)>
+
+2013-09-03 16:50:17.986305 - show configuration
+   Parsed Query: <content:show content:configur>
+   Hits: 447
+   MaxScore: 0.329645991325
+   Scorer: <CommandScoreQuery: custom(content:show content:configur)>
+
+2013-09-03 16:50:42.953513 - show configuration
+   Parsed Query: <content:show content:configur>
+   Hits: 447
+   MaxScore: 0.329645991325
+   Scorer: <CommandScoreQuery: custom(content:show content:configur)>
+
+2013-09-03 16:50:46.071684 - show configuration
+   Parsed Query: <content:show content:configur>
+   Hits: 447
+   MaxScore: 0.329645991325
+   Scorer: <CommandScoreQuery: custom(content:show content:configur)>
+
+2013-09-03 16:50:52.165951 - show configuration
+   Parsed Query: <content:show content:configur>
+   Hits: 447
+   MaxScore: 0.329645991325
+   Scorer: <CommandScoreQuery: custom(content:show content:configur)>
+
+2013-09-03 16:52:17.518654 - show configuration
+   Parsed Query: <content:show content:configur>
+   Hits: 447
+   MaxScore: 0.140904948115
+   Scorer: <CommandScoreQuery: custom(content:show content:configur)>
+
+2013-09-03 16:52:25.800862 - clear result
+   Parsed Query: <content:clear content:result>
+   Hits: 134
+   MaxScore: 0.117503099144
+   Scorer: <CommandScoreQuery: custom(content:clear content:result)>
+
+2013-09-03 16:52:44.958923 - "clear result"
+   Parsed Query: <content:"clear result"~2>
+   Hits: 0
+   MaxScore: nan
+   Scorer: <CommandScoreQuery: custom(content:"clear result"~2)>
+
+2013-09-03 16:53:43.953653 - show configuration
+   Parsed Query: <content:show content:configur>
+   Hits: 447
+   MaxScore: 0.140904948115
+   Scorer: <CommandScoreQuery: custom(content:show content:configur)>
+
+2013-09-03 16:54:07.950435 - (show configuration)
+   Parsed Query: <content:show content:configur>
+   Hits: 447
+   MaxScore: 0.140904948115
+   Scorer: <CommandScoreQuery: custom(content:show content:configur)>
+
+2013-09-03 16:55:02.789798 - (show configuration)
+   Parsed Query: <content:show content:configur>
+   Hits: 447
+   MaxScore: 0.329645991325
+   Scorer: <CommandScoreQuery: custom(content:show content:configur)>
+
+2013-09-03 16:55:16.347984 - show configuration
+   Parsed Query: <content:show content:configur>
+   Hits: 447
+   MaxScore: 0.329645991325
+   Scorer: <CommandScoreQuery: custom(content:show content:configur)>
+
+2013-09-03 16:55:27.308709 - "clear result"
+   Parsed Query: <content:"clear result"~2>
+   Hits: 0
+   MaxScore: nan
+   Scorer: <CommandScoreQuery: custom(content:"clear result"~2)>
+
+2013-09-03 16:56:42.445566 - show configuration
+   Parsed Query: <content:show content:configur>
+   Hits: 447
+   MaxScore: 0.140904948115
+   Scorer: <CommandScoreQuery: custom(content:show content:configur)>
+
+2013-09-03 16:56:57.003613 - show configuration
+   Parsed Query: <content:show content:configur>
+   Hits: 447
+   MaxScore: 0.329645991325
+   Scorer: <CommandScoreQuery: custom(content:show content:configur)>
+
+2013-09-03 17:12:42.486772 - clear
+   Parsed Query: <content:clear>
+   Hits: 122
+   MaxScore: 0.352639555931
+   Scorer: <CommandScoreQuery: custom(content:clear)>
+
+2013-09-04 16:23:44.618090 - id:1
+   Parsed Query: <id:1>
+   Hits: 1
+   MaxScore: 0.50775372982
+   Scorer: <CommandScoreQuery: custom(id:1)>
+
+2013-09-04 16:23:47.104890 - id:1
+   Parsed Query: <id:1>
+   Hits: 1
+   MaxScore: 0.50775372982
+   Scorer: <CommandScoreQuery: custom(id:1)>
+
+2013-09-04 16:23:48.372045 - id:1
+   Parsed Query: <id:1>
+   Hits: 1
+   MaxScore: 0.50775372982
+   Scorer: <CommandScoreQuery: custom(id:1)>
+
+2013-09-04 16:23:49.959992 - id:1
+   Parsed Query: <id:1>
+   Hits: 1
+   MaxScore: 0.50775372982
+   Scorer: <CommandScoreQuery: custom(id:1)>
+
+2013-09-04 16:23:50.993043 - id:1
+   Parsed Query: <id:1>
+   Hits: 1
+   MaxScore: 0.50775372982
+   Scorer: <CommandScoreQuery: custom(id:1)>
+
+2013-09-04 16:23:52.490396 - id:1
+   Parsed Query: <id:1>
+   Hits: 1
+   MaxScore: 0.50775372982
+   Scorer: <CommandScoreQuery: custom(id:1)>
+
+2013-09-04 16:23:56.350849 - id:85
+   Parsed Query: <id:85>
+   Hits: 1
+   MaxScore: 0.101550742984
+   Scorer: <CommandScoreQuery: custom(id:85)>
+
+2013-09-04 16:24:03.813176 - id:12
+   Parsed Query: <id:12>
+   Hits: 1
+   MaxScore: 0.25387686491
+   Scorer: <CommandScoreQuery: custom(id:12)>
+
+2013-09-04 16:24:07.792122 - name:"view-pcap"
+   Parsed Query: <name:view-pcap>
+   Hits: 1
+   MaxScore: 0.50775372982
+   Scorer: <CommandScoreQuery: custom(name:view-pcap)>
+
+2013-09-04 16:24:11.650238 - name:"view-pcap follow"
+   Parsed Query: <name:view-pcap follow>
+   Hits: 1
+   MaxScore: 0.25387686491
+   Scorer: <CommandScoreQuery: custom(name:view-pcap follow)>
+
+2013-09-04 16:24:44.983862 - name:"view-pcap follow"
+   Parsed Query: <name:view-pcap follow>
+   Hits: 1
+   MaxScore: 0.25387686491
+   Scorer: <CommandScoreQuery: custom(name:view-pcap follow)>
+
+2013-09-04 16:55:01.406703 - id:15
+   Parsed Query: <id:15>
+   Hits: 1
+   MaxScore: 0.35903608799
+   Scorer: <CommandScoreQuery: custom(id:15)>
+
+2013-09-04 16:55:09.587988 - id:75
+   Parsed Query: <id:75>
+   Hits: 1
+   MaxScore: 0.35903608799
+   Scorer: <CommandScoreQuery: custom(id:75)>
+
+2013-09-04 16:55:12.794159 - id:12
+   Parsed Query: <id:12>
+   Hits: 1
+   MaxScore: 0.35903608799
+   Scorer: <CommandScoreQuery: custom(id:12)>
+
+2013-09-04 16:55:16.282400 - id:13
+   Parsed Query: <id:13>
+   Hits: 1
+   MaxScore: 0.35903608799
+   Scorer: <CommandScoreQuery: custom(id:13)>
+
+2013-09-04 17:32:47.146055 - clear
+   Parsed Query: <content:clear>
+   Hits: 122
+   MaxScore: 0.198136240244
+   Scorer: <CommandScoreQuery: custom(content:clear)>
+
+2013-09-04 17:35:15.748312 - clear
+   Parsed Query: <content:clear>
+   Hits: 122
+   MaxScore: 0.0792544931173
+   Scorer: <CommandScoreQuery: custom(content:clear)>
+
+2013-09-04 17:35:26.595205 - show system information
+   Parsed Query: <content:show content:system content:inform>
+   Hits: 483
+   MaxScore: 0.0534183233976
+   Scorer: <CommandScoreQuery: custom(content:show content:system content:inform)>
+
+2013-09-04 17:36:29.373288 - virtual object
+   Parsed Query: <content:virtual content:object>
+   Hits: 69
+   MaxScore: 0.0211399905384
+   Scorer: <CommandScoreQuery: custom(content:virtual content:object)>
+
+2013-09-04 17:38:05.129058 - show system information
+   Parsed Query: <content:show content:system content:inform>
+   Hits: 483
+   MaxScore: 0.0534183233976
+   Scorer: <CommandScoreQuery: custom(content:show content:system content:inform)>
+
+2013-09-04 17:38:13.477708 - clear
+   Parsed Query: <content:clear>
+   Hits: 122
+   MaxScore: 0.0792544931173
+   Scorer: <CommandScoreQuery: custom(content:clear)>
+
+2013-09-04 17:38:32.440248 - name:"clear"
+   Parsed Query: <name:clear>
+   Hits: 1
+   MaxScore: 0.35903608799
+   Scorer: <CommandScoreQuery: custom(name:clear)>
+
+2013-09-04 17:38:36.144837 - name:"clear counter"
+   Parsed Query: <name:clear counter>
+   Hits: 1
+   MaxScore: 0.179518043995
+   Scorer: <CommandScoreQuery: custom(name:clear counter)>
+
+2013-09-04 17:38:40.971174 - id:1
+   Parsed Query: <id:1>
+   Hits: 1
+   MaxScore: 0.35903608799
+   Scorer: <CommandScoreQuery: custom(id:1)>
+
+2013-09-04 17:38:58.425218 - name:"clear"
+   Parsed Query: <name:clear>
+   Hits: 1
+   MaxScore: 0.35903608799
+   Scorer: <CommandScoreQuery: custom(name:clear)>
+
+2013-09-04 17:39:24.339799 - parent:1
+   Parsed Query: <parent:1>
+   Hits: 0
+   MaxScore: nan
+   Scorer: <CommandScoreQuery: custom(parent:1)>
+
+2013-09-04 17:39:29.441944 - parentID:1
+   Parsed Query: <parentID:1>
+   Hits: 18
+   MaxScore: 0.13554751873
+   Scorer: <CommandScoreQuery: custom(parentID:1)>
+
+2013-09-04 17:39:38.591886 - parentID:2
+   Parsed Query: <parentID:2>
+   Hits: 0
+   MaxScore: nan
+   Scorer: <CommandScoreQuery: custom(parentID:2)>
+
+2013-09-04 17:39:44.231936 - parentID:3
+   Parsed Query: <parentID:3>
+   Hits: 0
+   MaxScore: nan
+   Scorer: <CommandScoreQuery: custom(parentID:3)>
+
+2013-09-04 17:39:51.873961 - parentID:1
+   Parsed Query: <parentID:1>
+   Hits: 18
+   MaxScore: 0.13554751873
+   Scorer: <CommandScoreQuery: custom(parentID:1)>
+
+2013-09-04 17:39:57.632505 - parentID:4
+   Parsed Query: <parentID:4>
+   Hits: 0
+   MaxScore: nan
+   Scorer: <CommandScoreQuery: custom(parentID:4)>
+
+2013-09-04 17:40:07.784304 - name:"clear statistics"
+   Parsed Query: <name:clear statistics>
+   Hits: 1
+   MaxScore: 0.179518043995
+   Scorer: <CommandScoreQuery: custom(name:clear statistics)>
+
+2013-09-04 17:40:25.084757 - parentID:49
+   Parsed Query: <parentID:49>
+   Hits: 8
+   MaxScore: 0.100094355643
+   Scorer: <CommandScoreQuery: custom(parentID:49)>
+
+2013-09-04 17:41:00.105102 - parentID:4
+   Parsed Query: <parentID:4>
+   Hits: 0
+   MaxScore: nan
+   Scorer: <CommandScoreQuery: custom(parentID:4)>
+
+2013-09-04 17:43:24.346958 - clear
+   Parsed Query: <content:clear>
+   Hits: 122
+   MaxScore: 0.0792544931173
+   Scorer: <CommandScoreQuery: custom(content:clear)>
+
+2013-09-04 17:43:27.363588 - debug
+   Parsed Query: <content:debug>
+   Hits: 140
+   MaxScore: 0.0988106355071
+   Scorer: <CommandScoreQuery: custom(content:debug)>
+
+2013-09-04 17:44:43.329546 - show all information
+   Parsed Query: <content:show content:all content:inform>
+   Hits: 724
+   MaxScore: 0.0424557588995
+   Scorer: <CommandScoreQuery: custom(content:show content:all content:inform)>
+
+2013-09-04 17:45:09.443714 - show system information
+   Parsed Query: <content:show content:system content:inform>
+   Hits: 483
+   MaxScore: 0.0534183233976
+   Scorer: <CommandScoreQuery: custom(content:show content:system content:inform)>
+
+2013-09-04 17:45:22.200641 - name:"show system setting"
+   Parsed Query: <name:show system setting>
+   Hits: 1
+   MaxScore: 0.11967869848
+   Scorer: <CommandScoreQuery: custom(name:show system setting)>
+
